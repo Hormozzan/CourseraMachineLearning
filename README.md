@@ -1,3 +1,3 @@
 # CourseraMachineLearning
 
-My answers to Coursera Machine Learning Course Assignments
+My solutions to Coursera Machine Learning Course Assignments
